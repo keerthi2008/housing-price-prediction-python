@@ -60,17 +60,6 @@ Scikit-learn
 
 Linear Regression
 
-▶️ How to Run the Project
-
-# Clone repository
-git clone https://github.com/your-username/housing-price-prediction-python.git
-
-# Navigate folder
-cd housing-price-prediction-python
-
-# Install dependencies
-pip install -r requirements.txt
-
 # Run project
 
 python main.py
